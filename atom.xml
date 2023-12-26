@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Tanggerr.github.io/</id>
+    <title>Tanggerr&apos;s blog</title>
+    <updated>2023-12-26T16:35:53.852Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Tanggerr.github.io/"/>
+    <link rel="self" href="https://Tanggerr.github.io/atom.xml"/>
+    <subtitle>Reverse &amp; Crypto</subtitle>
+    <logo>https://Tanggerr.github.io/images/avatar.png</logo>
+    <icon>https://Tanggerr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Tanggerr&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[第六届安洵杯 Reverse WriteUp]]></title>
+        <id>https://Tanggerr.github.io/post/di-liu-jie-an-xun-bei-reverse-writeup/</id>
+        <link href="https://Tanggerr.github.io/post/di-liu-jie-an-xun-bei-reverse-writeup/">
+        </link>
+        <updated>2023-12-26T16:34:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2019Ciscn初赛] Strange int]]></title>
+        <id>https://Tanggerr.github.io/post/2019ciscn-chu-sai-strange-int/</id>
+        <link href="https://Tanggerr.github.io/post/2019ciscn-chu-sai-strange-int/">
+        </link>
+        <updated>2023-12-15T03:42:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[强网杯 2022]GameMaster  Writeup]]></title>
+        <id>https://Tanggerr.github.io/post/qiang-wang-bei-2022gamemaster-writeup/</id>
+        <link href="https://Tanggerr.github.io/post/qiang-wang-bei-2022gamemaster-writeup/">
+        </link>
+        <updated>2023-12-14T16:31:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹏城杯2023 Reverse Writeup]]></title>
+        <id>https://Tanggerr.github.io/post/peng-cheng-bei-2023-reverse-writeup/</id>
+        <link href="https://Tanggerr.github.io/post/peng-cheng-bei-2023-reverse-writeup/">
+        </link>
+        <updated>2023-12-12T08:52:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入解析结构化异常处理（SEH）]]></title>
+        <id>https://Tanggerr.github.io/post/shen-ru-jie-xi-jie-gou-hua-yi-chang-chu-li-seh/</id>
+        <link href="https://Tanggerr.github.io/post/shen-ru-jie-xi-jie-gou-hua-yi-chang-chu-li-seh/">
+        </link>
+        <updated>2023-12-11T16:01:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023-全国智能驾驶测试赛-车联网安全专项赛WP (Re)]]></title>
+        <id>https://Tanggerr.github.io/post/2023-quan-guo-zhi-neng-jia-shi-ce-shi-sai-che-lian-wang-an-quan-zhuan-xiang-sai-wp-re/</id>
+        <link href="https://Tanggerr.github.io/post/2023-quan-guo-zhi-neng-jia-shi-ce-shi-sai-che-lian-wang-an-quan-zhuan-xiang-sai-wp-re/">
+        </link>
+        <updated>2023-12-05T15:12:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSCTF2023 WP  (Re&Crypto)]]></title>
+        <id>https://Tanggerr.github.io/post/fsctf2023-wp-reandcrypto/</id>
+        <link href="https://Tanggerr.github.io/post/fsctf2023-wp-reandcrypto/">
+        </link>
+        <updated>2023-12-05T13:16:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023蓝帽杯半决赛 WP（Re&Crypto&Misc)]]></title>
+        <id>https://Tanggerr.github.io/post/2023-lan-mao-bei-ban-jue-sai-wpreandcryptoandmisc/</id>
+        <link href="https://Tanggerr.github.io/post/2023-lan-mao-bei-ban-jue-sai-wpreandcryptoandmisc/">
+        </link>
+        <updated>2023-12-05T13:10:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSS2nd CTF  Crypto WP]]></title>
+        <id>https://Tanggerr.github.io/post/nss2nd-ctf-crypto-wp/</id>
+        <link href="https://Tanggerr.github.io/post/nss2nd-ctf-crypto-wp/">
+        </link>
+        <updated>2023-12-05T12:33:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香山杯2023初赛 re WP]]></title>
+        <id>https://Tanggerr.github.io/post/xiang-shan-bei-2023-chu-sai-re-wp/</id>
+        <link href="https://Tanggerr.github.io/post/xiang-shan-bei-2023-chu-sai-re-wp/">
+        </link>
+        <updated>2023-10-28T12:47:44.000Z</updated>
+    </entry>
+</feed>
