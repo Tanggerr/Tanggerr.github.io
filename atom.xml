@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Tanggerr.github.io/</id>
+    <title>Tanggerr&apos;s blog</title>
+    <updated>2025-02-27T06:53:40.496Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Tanggerr.github.io/"/>
+    <link rel="self" href="https://Tanggerr.github.io/atom.xml"/>
+    <subtitle>Reverse &amp; Crypto</subtitle>
+    <logo>https://Tanggerr.github.io/images/avatar.png</logo>
+    <icon>https://Tanggerr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Tanggerr&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[[WUSTCTF2020]funnyre]]></title>
+        <id>https://Tanggerr.github.io/post/wustctf2020funnyre/</id>
+        <link href="https://Tanggerr.github.io/post/wustctf2020funnyre/">
+        </link>
+        <updated>2024-03-04T13:34:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安洵杯2019 Crackme]]></title>
+        <id>https://Tanggerr.github.io/post/an-xun-bei-2019-crackme/</id>
+        <link href="https://Tanggerr.github.io/post/an-xun-bei-2019-crackme/">
+        </link>
+        <updated>2024-03-03T15:23:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUCTF2019 babyunic]]></title>
+        <id>https://Tanggerr.github.io/post/suctf2019-babyunic/</id>
+        <link href="https://Tanggerr.github.io/post/suctf2019-babyunic/">
+        </link>
+        <updated>2024-03-01T01:23:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羊城杯2023 Quals Reverse WriteUp]]></title>
+        <id>https://Tanggerr.github.io/post/yang-cheng-bei-2023-quals-reverse-writeup/</id>
+        <link href="https://Tanggerr.github.io/post/yang-cheng-bei-2023-quals-reverse-writeup/">
+        </link>
+        <updated>2024-02-13T05:32:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSSCTF Round17  Reverse & Crypto WriteUp（全）]]></title>
+        <id>https://Tanggerr.github.io/post/nssctf-round17-reverse-and-crypto-writeupquan/</id>
+        <link href="https://Tanggerr.github.io/post/nssctf-round17-reverse-and-crypto-writeupquan/">
+        </link>
+        <updated>2024-01-28T09:52:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ 西湖论剑2023 Quals ] Reverse WriteUp（1）]]></title>
+        <id>https://Tanggerr.github.io/post/xi-hu-lun-jian-2023-quals-reverse-writeup1/</id>
+        <link href="https://Tanggerr.github.io/post/xi-hu-lun-jian-2023-quals-reverse-writeup1/">
+        </link>
+        <updated>2024-01-26T09:32:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汇编指令对应机器码列表]]></title>
+        <id>https://Tanggerr.github.io/post/hui-bian-zhi-ling-dui-ying-ji-qi-ma-lie-biao/</id>
+        <link href="https://Tanggerr.github.io/post/hui-bian-zhi-ling-dui-ying-ji-qi-ma-lie-biao/">
+        </link>
+        <updated>2024-01-23T15:28:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第六届安洵杯 Reverse WriteUp]]></title>
+        <id>https://Tanggerr.github.io/post/di-liu-jie-an-xun-bei-reverse-writeup/</id>
+        <link href="https://Tanggerr.github.io/post/di-liu-jie-an-xun-bei-reverse-writeup/">
+        </link>
+        <updated>2023-12-26T16:34:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2019Ciscn初赛] Strange int]]></title>
+        <id>https://Tanggerr.github.io/post/2019ciscn-chu-sai-strange-int/</id>
+        <link href="https://Tanggerr.github.io/post/2019ciscn-chu-sai-strange-int/">
+        </link>
+        <updated>2023-12-15T03:42:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[强网杯 2022]GameMaster  Writeup]]></title>
+        <id>https://Tanggerr.github.io/post/qiang-wang-bei-2022gamemaster-writeup/</id>
+        <link href="https://Tanggerr.github.io/post/qiang-wang-bei-2022gamemaster-writeup/">
+        </link>
+        <updated>2023-12-14T16:31:15.000Z</updated>
+    </entry>
+</feed>
